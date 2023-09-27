@@ -172,8 +172,8 @@ A popup window appears and invites you to select the main scene.
 
 .. image:: img/nodes_and_scenes_13_main_scene_popup.webp
 
-Click the Select button, and in the file dialog that appears, double click on
-``label.tscn``.
+Click the 'Select' button, and in the file dialog that appears, double click on
+"label.tscn".
 
 .. image:: img/nodes_and_scenes_14_select_main_scene.webp
 
